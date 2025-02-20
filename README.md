@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Welcome to my repository of Leetcode solutions! This repository contains solutions to problems I have solved on Leetcode, **all implemented in C++**. The problems are organized by difficulty and topic, making it easier to navigate and understand different problem-solving approaches.
+Welcome to my repository of Leetcode solutions! This repository contains solutions to problems I have solved on Leetcode, **all implemented in C++**. The problems are organized by it's name and problem number, making it easier to navigate and understand different problem-solving approaches.
 
 ## Contents
 - **Easy**: Solutions to easy-level problems.
