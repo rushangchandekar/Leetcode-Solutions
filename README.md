@@ -24,6 +24,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -34,4 +35,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
