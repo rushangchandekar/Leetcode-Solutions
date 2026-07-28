@@ -55,6 +55,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -94,4 +95,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
