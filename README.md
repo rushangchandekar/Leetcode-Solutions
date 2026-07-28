@@ -36,6 +36,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | ------- |
 | [0125-valid-palindrome](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
