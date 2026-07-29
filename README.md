@@ -34,6 +34,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0051-n-queens](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -211,4 +213,5 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0039-combination-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
