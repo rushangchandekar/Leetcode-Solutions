@@ -28,6 +28,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0015-3sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -63,6 +64,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -197,5 +199,10 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
