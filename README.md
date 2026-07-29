@@ -25,6 +25,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -149,6 +151,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
