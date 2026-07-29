@@ -35,6 +35,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0238-product-of-array-except-self](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -93,6 +94,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,11 +120,13 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -137,6 +141,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
 | ------- |
@@ -165,4 +170,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | ------- |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
