@@ -43,6 +43,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0169-majority-element](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -144,6 +146,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
@@ -194,6 +197,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
 |  |
