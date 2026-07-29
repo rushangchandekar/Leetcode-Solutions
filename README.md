@@ -30,6 +30,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -207,4 +208,5 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | ------- |
 | [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
