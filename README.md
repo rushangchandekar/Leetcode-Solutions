@@ -28,8 +28,14 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0015-3sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -37,7 +43,9 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -58,14 +66,18 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +147,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
@@ -149,6 +162,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
@@ -176,6 +190,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | ------- |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +200,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
 |  |
@@ -193,9 +209,28 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
