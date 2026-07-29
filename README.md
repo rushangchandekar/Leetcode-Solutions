@@ -88,16 +88,19 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +126,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0098-validate-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Iterator
 |  |
 | ------- |
