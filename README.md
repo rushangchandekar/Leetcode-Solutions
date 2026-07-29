@@ -25,6 +25,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -113,4 +114,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
