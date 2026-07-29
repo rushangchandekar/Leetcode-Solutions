@@ -42,6 +42,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [1480-running-sum-of-1d-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -188,4 +190,12 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
