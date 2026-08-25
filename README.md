@@ -93,6 +93,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -145,6 +146,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -233,4 +235,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
