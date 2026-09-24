@@ -21,8 +21,10 @@ public:
 
         while(first != NULL && sec != NULL) {
             ListNode* third = sec->next;
+
             sec ->next = first;
             first->next = third;
+
             if(prev != NULL) {
                 prev->next = sec;
             } else {
@@ -31,6 +33,7 @@ public:
 
             prev = first;
             first = third;
+            
             if(third != NULL) {
                 sec = third->next;
             } else {
