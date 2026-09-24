@@ -108,6 +108,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -131,6 +132,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0210-course-schedule-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0733-flood-fill](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
@@ -271,4 +273,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
