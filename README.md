@@ -105,6 +105,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -245,6 +246,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
