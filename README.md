@@ -47,6 +47,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0238-product-of-array-except-self](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -202,6 +205,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0125-valid-palindrome](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -303,4 +307,12 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
