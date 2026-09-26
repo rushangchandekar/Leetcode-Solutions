@@ -34,6 +34,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -173,6 +174,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -233,6 +235,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [2965-find-missing-and-repeated-values](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
