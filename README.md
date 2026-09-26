@@ -281,4 +281,8 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
