@@ -285,4 +285,12 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
