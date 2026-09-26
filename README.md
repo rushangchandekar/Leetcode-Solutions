@@ -34,6 +34,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 | [0046-permutations](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -65,6 +66,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -238,6 +240,7 @@ Feel free to open issues or contribute by submitting pull requests! Any feedback
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/rushangchandekar/Leetcode-Solutions/tree/master/0733-flood-fill) |
